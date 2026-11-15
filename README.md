@@ -76,9 +76,11 @@ Meu objetivo é continuar evoluindo, criar projetos úteis e construir sistemas 
 
 <h2 align="center">⌘ Commit Activity</h2>
 
-<p align="center">
-  <img src="./pacman.svg" alt="Pac-Man Contribution Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrContador/MrContador/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrContador/MrContador/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/MrContador/MrContador/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph">
+</picture>
 
 <h2 align="center">⌘ Filosofia</h2>
 
