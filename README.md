@@ -7,7 +7,7 @@
 <h3 align="center">Desenvolvedor e criador de projetos digitais</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Construindo+o+futuro;%3E+Transformando+ideias+em+código;%3E+Aprendendo+todos+os+dias;Just+Code" alt="Typing SVG" />
+  <img src="./assets/typing.svg" alt="Construindo o futuro" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ Meu objetivo é continuar evoluindo, criar projetos úteis e construir sistemas 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrContador&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph" />
+  <img src="./assets/activity.svg" alt="Activity Graph" />
 </p>
 
 <h2 align="center">⌘ Commit Activity</h2>

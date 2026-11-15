@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="70" viewBox="0 0 700 70">
+  <rect width="700" height="70" fill="none"/>
+  <style>.text{fill:#c9d1d9;font:600 22px 'JetBrains Mono',monospace}.cursor{fill:#58a6ff;animation:blink 1s steps(2,end) infinite}@keyframes blink{50%{opacity:0}}</style>
+  <text x="350" y="43" text-anchor="middle" class="text">&gt; Construindo o futuro <tspan class="cursor">▌</tspan></text>
+</svg>
