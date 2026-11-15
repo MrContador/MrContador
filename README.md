@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/main/assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Olá 👋, eu sou MrContador</h1>
@@ -16,7 +16,7 @@
 
 <h2 align="center">🚀 Sobre mim</h2>
 
-<img align="right" src="https://raw.githubusercontent.com/midnightshady/midnightshady/main/assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
+<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
 Tenho 24 anos e sou apaixonado por tecnologia, programação e criação de projetos.
 
@@ -44,6 +44,22 @@ Meu objetivo é continuar evoluindo, criar projetos úteis e construir sistemas 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,nodejs,python,html,css,git,github,vscode,mongodb,mysql,docker" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="OpenCV" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="Google Cloud" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
