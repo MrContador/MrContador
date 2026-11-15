@@ -1,13 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
-  <rect width="900" height="180" rx="14" fill="#1f242c"/>
-  <text x="28" y="34" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="600">MrContador · Activity Graph</text>
-  <g transform="translate(28,55)" fill="#26303a">
-    <rect x="0" y="0" width="14" height="14" rx="3"/><rect x="0" y="20" width="14" height="14" rx="3"/><rect x="0" y="40" width="14" height="14" rx="3"/><rect x="0" y="60" width="14" height="14" rx="3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <rect width="900" height="300" rx="16" fill="#1f242c"/>
+  <text x="30" y="35" fill="#e6edf3" font-family="Arial,sans-serif" font-size="18" font-weight="600">MrContador · Activity Graph</text>
+  <text x="30" y="65" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Contributions and coding activity over time</text>
+  <g transform="translate(32,88)">
+    <g fill="#26303a"><path d="M0 0h14v14H0z M0 20h14v14H0z M0 40h14v14H0z M0 60h14v14H0z M0 80h14v14H0z M0 100h14v14H0z M0 120h14v14H0z"/></g>
+    <g fill="#0e4429"><path d="M22 100h14v14H22z M44 80h14v14H44z M66 60h14v14H66z M88 40h14v14H88z M110 100h14v14H110z M132 80h14v14H132z M154 60h14v14H154z M176 40h14v14H176z M198 100h14v14H198z M220 80h14v14H220z M242 60h14v14H242z M264 40h14v14H264z M286 100h14v14H286z M308 80h14v14H308z M330 60h14v14H330z M352 40h14v14H352z M374 100h14v14H374z M396 80h14v14H396z M418 60h14v14H418z M440 40h14v14H440z M462 100h14v14H462z M484 80h14v14H484z M506 60h14v14H506z M528 40h14v14H528z M550 100h14v14H550z M572 80h14v14H572z M594 60h14v14H594z M616 40h14v14H616z M638 100h14v14H638z M660 80h14v14H660z M682 60h14v14H682z M704 40h14v14H704z M726 100h14v14H726z M748 80h14v14H748z M770 60h14v14H770z M792 40h14v14H792z"/></g>
+    <g fill="#238636"><path d="M22 80h14v14H22z M66 40h14v14H66z M110 80h14v14H110z M154 40h14v14H154z M198 80h14v14H198z M242 40h14v14H242z M286 80h14v14H286z M330 40h14v14H330z M374 80h14v14H374z M418 40h14v14H418z M462 80h14v14H462z M506 40h14v14H506z M550 80h14v14H550z M594 40h14v14H594z M638 80h14v14H638z M682 40h14v14H682z M726 80h14v14H726z M770 40h14v14H770z"/></g>
+    <g fill="#39d353"><path d="M44 60h14v14H44z M132 60h14v14H132z M220 20h14v14H220z M308 60h14v14H308z M396 20h14v14H396z M484 60h14v14H484z M572 20h14v14H572z M660 60h14v14H660z M748 20h14v14H748z"/></g>
+    <path d="M8 118 C80 102 104 64 156 78 S250 28 310 66 S420 28 478 64 S590 32 650 64 S750 22 820 44" fill="none" stroke="#58a6ff" stroke-width="3" opacity=".9"/>
+    <path d="M8 118 C80 102 104 64 156 78 S250 28 310 66 S420 28 478 64 S590 32 650 64 S750 22 820 44 L820 140 L8 140Z" fill="#58a6ff" opacity=".08"/>
   </g>
-  <g transform="translate(28,55)" fill="#0e4429">
-    <rect x="30" y="40" width="14" height="14" rx="3"/><rect x="60" y="20" width="14" height="14" rx="3"/><rect x="90" y="60" width="14" height="14" rx="3"/><rect x="120" y="40" width="14" height="14" rx="3"/><rect x="150" y="20" width="14" height="14" rx="3"/><rect x="210" y="0" width="14" height="14" rx="3"/><rect x="240" y="40" width="14" height="14" rx="3"/><rect x="270" y="20" width="14" height="14" rx="3"/><rect x="330" y="60" width="14" height="14" rx="3"/><rect x="360" y="40" width="14" height="14" rx="3"/><rect x="420" y="20" width="14" height="14" rx="3"/><rect x="450" y="0" width="14" height="14" rx="3"/><rect x="510" y="40" width="14" height="14" rx="3"/><rect x="540" y="20" width="14" height="14" rx="3"/><rect x="600" y="60" width="14" height="14" rx="3"/><rect x="660" y="40" width="14" height="14" rx="3"/><rect x="690" y="20" width="14" height="14" rx="3"/><rect x="750" y="0" width="14" height="14" rx="3"/><rect x="780" y="40" width="14" height="14" rx="3"/>
-  </g>
-  <g transform="translate(28,55)" fill="#238636"><rect x="180" y="40" width="14" height="14" rx="3"/><rect x="300" y="0" width="14" height="14" rx="3"/><rect x="480" y="60" width="14" height="14" rx="3"/><rect x="570" y="0" width="14" height="14" rx="3"/><rect x="720" y="60" width="14" height="14" rx="3"/></g>
-  <g transform="translate(28,55)" fill="#39d353"><rect x="390" y="20" width="14" height="14" rx="3"/><rect x="630" y="0" width="14" height="14" rx="3"/></g>
-  <text x="28" y="160" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">Less</text><text x="155" y="160" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">More</text>
+  <text x="32" y="258" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Less</text>
+  <rect x="70" y="248" width="14" height="14" rx="3" fill="#26303a"/><rect x="90" y="248" width="14" height="14" rx="3" fill="#0e4429"/><rect x="110" y="248" width="14" height="14" rx="3" fill="#238636"/><rect x="130" y="248" width="14" height="14" rx="3" fill="#39d353"/>
+  <text x="150" y="258" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">More</text>
 </svg>
