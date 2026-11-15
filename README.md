@@ -7,7 +7,7 @@
 <h3 align="center">Desenvolvedor e criador de projetos digitais</h3>
 
 <p align="center">
-  <img src="./assets/typing.svg" alt="Construindo o futuro" />
+  <img src="./typing.svg" alt="Construindo o futuro" />
 </p>
 
 <p align="center">
@@ -55,16 +55,14 @@ Meu objetivo é continuar evoluindo, criar projetos úteis e construir sistemas 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="./assets/activity.svg" alt="Activity Graph" />
+  <img src="./activity.svg" alt="Activity Graph" />
 </p>
 
 <h2 align="center">⌘ Commit Activity</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrContador/MrContador/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrContador/MrContador/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/MrContador/MrContador/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph">
-</picture>
+<p align="center">
+  <img src="./pacman.svg" alt="Pac-Man Contribution Graph" />
+</p>
 
 <h2 align="center">⌘ Filosofia</h2>
 
